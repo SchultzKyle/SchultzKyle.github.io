@@ -11,7 +11,7 @@ classes: wide
 
 
 <p style="text-align: justify">
-I am a PhD student in both the [Boeing Advanced Research Center (BARC)](https://depts.washington.edu/barc/node/1), and the [Precision Controls Lab (UPC)](http://faculty.washington.edu/devasia/) at the University of Washington Deparment of Mechanical Engineering. At the BARC lab, I design robots for confined space manufacturing and collaborative robots that assist mechanics on the factory floor. At the UPC lab, I'm developing algorithms for human intent inference and shared control.
+I am a PhD student in both the <a href="https://depts.washington.edu/barc/node/1">Boeing Advanced Research Center (BARC)</a>, and the <a href="http://faculty.washington.edu/devasia/">Precision Controls Lab</a> at the University of Washington Deparment of Mechanical Engineering. At the BARC lab, I design robots for confined space manufacturing and collaborative robots that assist mechanics on the factory floor. At the UPC lab, I'm developing algorithms for human intent inference and shared control.
 </p>
 
 
