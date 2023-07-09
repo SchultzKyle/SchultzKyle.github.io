@@ -72,7 +72,7 @@ author:
       url: https://github.com/SchultzKyle
     - label: "Google Scholar"
       icon: "fab fa-fw fa-scholar"
-      url: https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ
+      # url:
 
 defaults:
   # _posts
