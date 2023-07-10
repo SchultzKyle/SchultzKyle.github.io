@@ -12,7 +12,7 @@ toc_icon: "gear"
 
 Below are some of the projects I have worked on. My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ).
 
-I have built robots from the ground up, including design and actuator/sensor integration to simulation and motion planning. I have also deployed off the shelf robots including the <a href="https://www.universal-robots.com/products/ur10-robot/">UR10e</a> and the <a href="https://www.hdtrobotics.com"/>HDT Adroit</a> in custom applications.
+I have built robots from the ground up, including design and actuator/sensor integration to simulation and motion planning. I have also deployed off the shelf robots including the <a href="https://www.universal-robots.com/products/ur10-robot/">UR10e</a> and the <a href="https://www.hdtrobotics.co/m">HDT Adroit</a> in custom applications.
 
 <img src="/assets/images/cable-arm-overview.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Tendon Sheath Robot Design</strong> <br> 
