@@ -7,8 +7,6 @@ author_profile: true
 classes: wide
 ---
 
-Some other stuff that you might find interesting.
-
 ## Personal
 
 

@@ -28,21 +28,21 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 
 <img src="/assets/images/lift-assist.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Collaborative Robot Lift Assist</strong> <br> 
-  At the BARC, I helped to build a lift assist for aerospace manufacturing. We designed a mobile base for a collaborative robot, and using force/torque measurements a mechanic can effortless move a variety of heavy tools - reducing strain and injuries.
+  At the BARC, I helped to build a robotic lift assist for aerospace manufacturing. We designed a mobile base for a collaborative robot, and using force/torque measurements a mechanic can effortlessly move a variety of heavy tools - reducing strain and injuries.
 </li>
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<li> <strong>Robot Autonomous Drilling</strong> <br> 
-  with x x
+<img src="/assets/images/backlash-control.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<li> <strong>Precision Control of Tendon-Sheath Robots</strong> <br> 
+  Tendon-sheath robots suffer from backlash hysteresis, making precision control challenging. Along with Wade Marquette, I developed a control strategy that achieves an order of magnitude higher precision over existing methods (publication in process).
 </li>
 <br clear="left"/>
 <hr />
 
-<img src="/assets/images/" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/robotic-eyes.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Robotic Eyes</strong> <br> 
-  with x x
+  For my undergraduate mechatronics captsone, we created a set of "robotic eyes" that could mimic human head and eye movement. This project was in partnership with Microsoft to create a repeatable system for testing computer eye trackers. <a href="https://www.youtube.com/watch?v=4C0g8liDMJ8&t=52s">Here's a video of the system.</a>
 </li>
 <br clear="left"/>
 <hr />
