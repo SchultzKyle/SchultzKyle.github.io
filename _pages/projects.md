@@ -12,6 +12,8 @@ toc_icon: "gear"
 
 Below are some of the projects I have worked on. My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ).
 
+I have built robots from the ground up, including design and actuator/sensor integration to simulation and motion planning.
+
 <img src="/assets/images/cable-arm-overview.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Tendon Sheath Robot Design</strong> <br> 
   With collaborators at the BARC, we designed and built a <a href="https://patents.google.com/patent/US20220281102A1/">patent pending</a> confined space robot from the ground up.
