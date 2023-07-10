@@ -12,7 +12,7 @@ toc_icon: "gear"
 
 My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ).
 
-<img src="/assets/images/" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<img src="/assets/images/cable-arm-overview.png" width="200" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Tendon Sheath Robot Design</strong> <br> 
   with x x
 </li>
