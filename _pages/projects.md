@@ -10,7 +10,7 @@ toc_label: "Category"
 toc_icon: "gear"
 ---
 
-My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ).
+Below are some of the projects I have worked on. My published work can also be tracked on [Google Scholar](https://scholar.google.com/citations?hl=en&user=5dPjODwAAAAJ).
 
 <img src="/assets/images/cable-arm-overview.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Tendon Sheath Robot Design</strong> <br> 
@@ -22,6 +22,13 @@ My published work can also be tracked on [Google Scholar](https://scholar.google
 <img src="/assets/images/ros-ethercat.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>ROS EtherCAT Servo Control</strong> <br> 
   I built a <a href="https://github.com/SchultzKyle/yaskawa-ros-ethercat-control">ROS EtherCAT master</a> to control Yaskawa servo drives. This enables custom robots built with Yaskawa servos to be easily controlled from ROS.
+</li>
+<br clear="left"/>
+<hr />
+
+<img src="/assets/images/state-estimation.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<li> <strong>Camera Based State Estimation</strong> <br> 
+ Volatile fumes in confined spaces preclude many electronics such as encoders, making certified cameras suitable for state estimation. At the BARC, we created a camera based state estimation system using AprilTags, allowing for the creation of a digital twin to improve control and operator awareness.
 </li>
 <br clear="left"/>
 <hr />
