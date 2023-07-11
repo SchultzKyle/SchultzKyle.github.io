@@ -60,7 +60,7 @@ plugins:
 author:
   name             : "Kyle Schultz"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "Mechanical Engieering PhD student at University of Washington focusing on robotics and control"
+  bio              : "Mechanical Engineering PhD student at University of Washington focusing on robotics and control"
   location         : "Seattle, WA"
   email            : "kylews@uw.edu"
   links:
