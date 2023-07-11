@@ -16,14 +16,7 @@ I have built robots from the ground up, including design and actuator/sensor int
 
 <img src="/assets/images/cable-arm-overview.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Tendon Sheath Robot Design</strong> <br> 
-  With collaborators at the BARC, we designed and built a <a href="https://patents.google.com/patent/US20220281102A1/">patent pending</a> confined space robot from the ground up.
-</li>
-<br clear="left"/>
-<hr />
-
-<img src="/assets/images/ros-ethercat.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<li> <strong>ROS EtherCAT Servo Control</strong> <br> 
-  I built a <a href="https://github.com/SchultzKyle/yaskawa-ros-ethercat-control">ROS EtherCAT master</a> to control Yaskawa servo drives. This enables custom robots built with Yaskawa servos to be easily controlled from ROS.
+  With collaborators at the BARC, I designed and built a <a href="https://patents.google.com/patent/US20220281102A1/">patent pending</a> confined space robot from the ground up.
 </li>
 <br clear="left"/>
 <hr />
@@ -42,6 +35,13 @@ I have built robots from the ground up, including design and actuator/sensor int
 <br clear="left"/>
 <hr />
 
+<img src="/assets/images/ros-ethercat.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<li> <strong>ROS EtherCAT Servo Control</strong> <br> 
+  I built a <a href="https://github.com/SchultzKyle/yaskawa-ros-ethercat-control">ROS EtherCAT master</a> to control Yaskawa servo drives. This enables custom robots built with Yaskawa servos to be easily controlled from ROS.
+</li>
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/backlash-control.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Precision Control of Tendon-Sheath Robots</strong> <br> 
   Tendon-sheath robots suffer from backlash hysteresis, making precision control challenging. Along with Wade Marquette, I developed a control strategy that achieves an order of magnitude higher precision over existing methods (publication in process).
@@ -49,9 +49,16 @@ I have built robots from the ground up, including design and actuator/sensor int
 <br clear="left"/>
 <hr />
 
+<img src="/assets/images/force-haptics.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
+<li> <strong>Haptic Force Relection</strong> <br> 
+  I built a <a href="https://github.com/SchultzKyle/ati-haptics">ROS package</a> for Force Dimension haptics devices and ATI force/torque sensors that reflect measured forces to a user. This allows users controlling robots to feel enviroments they interact with using robots.
+</li>
+<br clear="left"/>
+<hr />
+
 <img src="/assets/images/robotic-eyes.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
 <li> <strong>Robotic Eyes</strong> <br> 
-  For my undergraduate mechatronics captsone, we created a set of "robotic eyes" that could mimic human head and eye movement. This project was in partnership with Microsoft to create a repeatable system for testing computer eye trackers. <a href="https://www.youtube.com/watch?v=4C0g8liDMJ8&t=52s">Here's a video of the system.</a>
+  For my undergraduate mechatronics capstone, we created a set of "robotic eyes" that could mimic human head and eye movement. This project was in partnership with Microsoft to create a repeatable system for testing computer eye trackers. <a href="https://www.youtube.com/watch?v=4C0g8liDMJ8&t=52s">Here's a video of the system.</a>
 </li>
 <br clear="left"/>
 <hr />
