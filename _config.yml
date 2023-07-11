@@ -13,6 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-9882N80DZ6"
+    anonymize_ip: false # default
+
+
 title: Kyle Schultz
 email: kylews@uw.edu
 description: >- # this means to ignore newlines until "baseurl:"
