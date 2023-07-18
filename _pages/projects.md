@@ -22,8 +22,8 @@ I have built robots from the ground up, including design and actuator/sensor int
 <hr />
 
 <img src="/assets/images/state-estimation.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<li> <strong>Camera Based State Estimation</strong> <br> 
- Volatile fumes in confined spaces preclude many electronics such as encoders, making certified cameras suitable for state estimation. At the BARC, we created a camera based state estimation system using AprilTags, allowing for the creation of a digital twin to improve control and operator awareness.
+<li> <strong>Sensor Fusion for Confined Space State Estimation</strong> <br> 
+ Volatile fumes in confined spaces preclude many electronics such as encoders, making certified cameras suitable for state estimation. At the BARC, we used a Kalman filter to fuse encoder readings (from outside the confined space), and AprilTags on the manipulator for state estimation. This allowed for improved control and the creation of a digital twin for heightened operator awareness.
 </li>
 <br clear="left"/>
 <hr />
