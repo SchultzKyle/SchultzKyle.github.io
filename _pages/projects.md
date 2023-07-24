@@ -50,7 +50,7 @@ I have built robots from the ground up, including design and actuator/sensor int
 <hr />
 
 <img src="/assets/images/force-haptics.png" width="300" height="auto" alt="" align="left" style="padding-right: 30px;" /> 
-<li> <strong>Haptic Force Relection</strong> <br> 
+<li> <strong>Haptic Force Reflection</strong> <br> 
   I built a <a href="https://github.com/SchultzKyle/ati-haptics">ROS package</a> for Force Dimension haptics devices and ATI force/torque sensors that reflect measured forces to a user. This allows users controlling robots to feel enviroments they interact with.
 </li>
 <br clear="left"/>
