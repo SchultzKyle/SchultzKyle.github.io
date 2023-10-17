@@ -18,6 +18,6 @@ I am a PhD student in both the <a href="https://depts.washington.edu/barc/node/1
 ### My research interests are:
 - Human intent inference for shared control
 - Human-robot collaborative object transportation
-- Applications of robotics in manufacturing
+- Human-aware motion planning
 
 
